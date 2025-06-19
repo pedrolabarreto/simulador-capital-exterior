@@ -1,1 +1,1 @@
-# Simulador avançado com aportes mensais, gráfico Plotly e exportação Excel
+# Simulador de Capital no Exterior — versão mínima compatível
